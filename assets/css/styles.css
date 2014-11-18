@@ -1649,13 +1649,19 @@ blockquote {
     height: 100%;
   }
   .wrapper {
+
     /*min-height: 100%;*/
     /*margin-bottom: -296px;*/
+
+/*    min-height: 100%;
+    margin-bottom: -0px;
+*/
     /* equal to footer height */
   }
   /*.wrapper:after {
     content: "";
     display: block;
+<<<<<<< HEAD
     /*height: 296px;*/
     /* must be the same height as footer 
   }
@@ -1663,5 +1669,10 @@ blockquote {
     /*height: 296px;*/
     /* must be the same height as footer 
   }*/
-}
+    /* must be the same height as footer */
+
+  .footer {
+    height: 0px;
+    /* must be the same height as footer */
+  }
 /* Large devices (large desktops, 1200px and up) */
