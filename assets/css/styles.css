@@ -541,7 +541,7 @@ blockquote {
 /* ======= Promo Section ======= */
 .promo {
   position: relative;
-  background: #6dbd63 url('../images/background/promo-bg.jpg') no-repeat center center;
+  background: #6dbd63 url('../images/background/video-bg.jpg') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -899,7 +899,7 @@ blockquote {
 /* ======= Feature Promo Section ======= */
 .features-promo {
   position: relative;
-  background: #6dbd63 url('../images/background/tour-bg.jpg') no-repeat center bottom;
+  background: #6dbd63 url('../images/background/priyapractico.jpg') no-repeat center bottom;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
