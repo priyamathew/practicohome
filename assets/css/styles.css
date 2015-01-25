@@ -83,11 +83,10 @@ a.btn-cta-primary:hover,
   color: #fff;
 }
 
-
-
 a.input-field,
 .input-field {
   background: #fff;
+  margin: 10px;
   border: 2px solid;
   border-radius: 3px;
   color: #7C7B7B;
@@ -134,7 +133,8 @@ a.btn-cta-secondary:hover .fa,
   color: #51a746;
 }
 
-
+.form-container {
+}
 
 .form-control {
   -webkit-box-shadow: none;
