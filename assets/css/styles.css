@@ -82,6 +82,36 @@ a.btn-cta-primary:hover,
   border: 2px solid #51a746;
   color: #fff;
 }
+
+
+
+a.input-field,
+.input-field {
+  background: #fff;
+  border: 2px solid;
+  border-radius: 3px;
+  color: #7C7B7B;
+  padding-right: 25;
+  padding-left: 25px;
+
+}
+a.input-field .fa,
+.input-field .fa {
+  margin-left: 5px;
+  color: #7C7B7B;
+}
+a.input-field:hover,
+.input-field:hover {
+  background: #fff;
+  border: 2px solid;
+  color: #51a746;
+}
+a.input-field:hover .fa,
+.input-field:hover .fa {
+  color: #51a746;
+}
+
+
 a.btn-cta-secondary,
 .btn-cta-secondary {
   background: #fff;
@@ -103,6 +133,9 @@ a.btn-cta-secondary:hover .fa,
 .btn-cta-secondary:hover .fa {
   color: #51a746;
 }
+
+
+
 .form-control {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -1661,7 +1694,6 @@ blockquote {
   /*.wrapper:after {
     content: "";
     display: block;
-<<<<<<< HEAD
     /*height: 296px;*/
     /* must be the same height as footer 
   }
